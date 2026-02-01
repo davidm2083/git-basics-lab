@@ -1,2 +1,3 @@
-# CIS242
-Assignments and Labs
+# git-basics-lab
+beginner-github-lab
+
