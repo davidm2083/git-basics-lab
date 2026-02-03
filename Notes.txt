@@ -1,4 +1,4 @@
-# This files describe what Git does
+# This file describe what Git does
 Git is a version control system
 Git allows programmers and devs to track changes to files over time
 Git helps teams collaborate with each other safely
